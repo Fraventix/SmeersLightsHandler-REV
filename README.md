@@ -201,7 +201,7 @@ SmeersLightsHandler.OnServerEvent:Connect(function(player, data)
 end)
 ```
 
-This limits how frequently players can trigger vehicle functions, making spam attacks ineffective.
+This limits how frequently players can trigger vehicle functions, making spam attacks ineffective. Note that this is not the best implementation and it's just a rate-limiter, but could also be a temporary-like fix.
 
 ## Implementation Guide
 
