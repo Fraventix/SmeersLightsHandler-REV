@@ -164,7 +164,7 @@ SmeersLightsHandler.OnServerEvent:Connect(function(player, vehicle, request)
 end)
 ```
 
-This ensures players can only interact with vehicles they're physically near, adding another layer of protection.
+This ensures players can only interact with vehicles they're physically near. Not the best implementation also but could be a temporary fix.
 
 ### Rate Limiting Implementation
 
