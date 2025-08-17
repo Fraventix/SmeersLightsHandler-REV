@@ -341,14 +341,10 @@ end
 ### Official Documentation
 
 - [Roblox Remote Events and Functions](https://create.roblox.com/docs/scripting/events/remote) - Official guide to RemoteEvent security
-- [Game Security on Roblox](https://create.roblox.com/docs/production/publishing/security) - Best practices for secure game development
-- [Server-Side Security](https://create.roblox.com/docs/scripting/security/server-side-security) - Comprehensive security guidelines
 
 ### Community Resources
 
-- [A-Chassis GitHub Repository](https://github.com/novaarr/A-Chassis) - Original A-Chassis implementation
 - [Roblox Developer Forum - Security](https://devforum.roblox.com/c/development-discussion/scripting-support/103) - Community discussions on security
-- [RoDefender](https://github.com/RigidStudios/RoDefender) - Open-source anti-exploit system (You can also make your own anti-cheat if you're an experienced developer.)
 - [Roblox Security Research](https://github.com/CloneTrooper1019/Roblox-Client-Tracker) - Technical analysis of Roblox systems
 
 ### Security Tools
